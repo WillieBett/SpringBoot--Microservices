@@ -1,0 +1,5 @@
+com/imbuka/inventoryservice/service/InventoryService.class
+com/imbuka/inventoryservice/repository/InventoryRepository.class
+com/imbuka/inventoryservice/controller/InventoryController.class
+com/imbuka/inventoryservice/InventoryServiceApplication.class
+com/imbuka/inventoryservice/model/Inventory.class

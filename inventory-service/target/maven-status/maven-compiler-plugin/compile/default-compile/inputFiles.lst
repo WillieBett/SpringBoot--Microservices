@@ -1,0 +1,5 @@
+/home/imbukaalvin/IdeaProjects/microservices-new/inventory-service/src/main/java/com/imbuka/inventoryservice/model/Inventory.java
+/home/imbukaalvin/IdeaProjects/microservices-new/inventory-service/src/main/java/com/imbuka/inventoryservice/service/InventoryService.java
+/home/imbukaalvin/IdeaProjects/microservices-new/inventory-service/src/main/java/com/imbuka/inventoryservice/controller/InventoryController.java
+/home/imbukaalvin/IdeaProjects/microservices-new/inventory-service/src/main/java/com/imbuka/inventoryservice/InventoryServiceApplication.java
+/home/imbukaalvin/IdeaProjects/microservices-new/inventory-service/src/main/java/com/imbuka/inventoryservice/repository/InventoryRepository.java

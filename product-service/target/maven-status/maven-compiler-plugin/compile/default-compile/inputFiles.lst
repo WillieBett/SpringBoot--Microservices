@@ -1,0 +1,7 @@
+/home/imbukaalvin/IdeaProjects/microservices-new/product-service/src/main/java/com/imbuka/productservice/dto/ProductRequest.java
+/home/imbukaalvin/IdeaProjects/microservices-new/product-service/src/main/java/com/imbuka/productservice/model/Product.java
+/home/imbukaalvin/IdeaProjects/microservices-new/product-service/src/main/java/com/imbuka/productservice/ProductServiceApplication.java
+/home/imbukaalvin/IdeaProjects/microservices-new/product-service/src/main/java/com/imbuka/productservice/dto/ProductResponse.java
+/home/imbukaalvin/IdeaProjects/microservices-new/product-service/src/main/java/com/imbuka/productservice/controller/ProductController.java
+/home/imbukaalvin/IdeaProjects/microservices-new/product-service/src/main/java/com/imbuka/productservice/repository/ProductRepository.java
+/home/imbukaalvin/IdeaProjects/microservices-new/product-service/src/main/java/com/imbuka/productservice/service/ProductService.java
