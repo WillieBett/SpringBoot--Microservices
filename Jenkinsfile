@@ -4,7 +4,7 @@ pipeline {
         stages {
         stage('Checkout') {
             steps {
-                git branch: 'master', url: 'https://github.com/WillieBett/Springbootkafka.git'
+                git branch: 'master', url: 'https://github.com/WillieBett/SpringBoot--Microservices.git'
             }
         }
         stage('Build') {
